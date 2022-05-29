@@ -16,11 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./solution.jpg)
+![](images/solution.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://6293bdf30b696676ac5781aa--taupe-cheesecake-9ede90.netlify.app]()
+                 [https://shemjay.github.io/qr-card-component/]()
 
 ## My process
 
